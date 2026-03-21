@@ -36,7 +36,7 @@ Soy un desarrollador que combina la mentalidad hacker con la ingeniería de soft
 
 ### `▸ SKILL_TREE // ACTIVE_ABILITIES`
 
-<img src="./stats-rpg.svg" width="800" alt="RPG Stats"/>
+<img src="./stats-rgp.svg" width="800" alt="RPG Stats"/>
 
 </div>
 
