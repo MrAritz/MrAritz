@@ -109,22 +109,22 @@ Soy un desarrollador que combina la mentalidad hacker con la ingeniería de soft
 
 <br/>
 
-<a href="https://github.com/TU_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=transparent&title_color=00f0ff&text_color=8892b0&icon_color=00f0ff&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="GitHub Stats"/>
+<a href="https://github.com/MrAritz">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrAritz&show_icons=true&theme=transparent&title_color=00f0ff&text_color=8892b0&icon_color=00f0ff&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/TU_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=transparent&title_color=00f0ff&text_color=8892b0&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="Top Languages"/>
+<a href="https://github.com/MrAritz">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAritz&layout=compact&theme=transparent&title_color=00f0ff&text_color=8892b0&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=transparent&ring=00f0ff&fire=ff0040&currStreakLabel=00f0ff&sideLabels=8892b0&sideNums=00f0ff&dates=495670&border=1d3557&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAritz&theme=transparent&ring=00f0ff&fire=ff0040&currStreakLabel=00f0ff&sideLabels=8892b0&sideNums=00f0ff&dates=495670&border=1d3557&background=0d1117" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ff0040&area=true&area_color=00f0ff&hide_border=false&custom_title=▸%20ACTIVIDAD%20//%20COMMITS_LOG" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAritz&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ff0040&area=true&area_color=00f0ff&hide_border=false&custom_title=▸%20ACTIVIDAD%20//%20COMMITS_LOG" alt="Activity Graph"/>
 
 </div>
 
@@ -135,7 +135,7 @@ Soy un desarrollador que combina la mentalidad hacker con la ingeniería de soft
 
 ### `▸ LOGROS // ACHIEVEMENTS_UNLOCKED`
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MrAritz&theme=darkhub&no-frame=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophies"/>
 
 </div>
 
@@ -147,9 +147,9 @@ Soy un desarrollador que combina la mentalidad hacker con la ingeniería de soft
 ### `▸ BREACH_PROTOCOL // CONTRIBUTION_HACK`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-snake.svg"/>
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrAritz/MrAritz/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrAritz/MrAritz/output/github-snake.svg"/>
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/MrAritz/MrAritz/output/github-snake.svg"/>
 </picture>
 
 > *Para activar la snake, necesitas configurar el [GitHub Action](https://github.com/Platane/snk)*
@@ -189,7 +189,7 @@ Soy un desarrollador que combina la mentalidad hacker con la ingeniería de soft
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&color=00f0ff&label=PROFILE+SCANS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=MrAritz&style=for-the-badge&color=00f0ff&label=PROFILE+SCANS" alt="Profile views"/>
 
 </div>
 
