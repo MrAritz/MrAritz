@@ -34,37 +34,12 @@ Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://ww
 ### `▸ FACTION // HEKYRA`
  ---
 <div align="center">
- 
+
   <a href="https://www.hekyra.com">
-    <img src="./Hekyra-logo-2000x2000.png" width="150" alt="Hekyra Logo"/>
+    <img src="./hekyra-section.svg" width="800" alt="Hekyra — Ciberseguridad & Desarrollo de Software"/>
   </a>
  
-<br/><br/>
- 
-**Tecnología que funciona. Seguridad en la que confiar.**
- 
-<br/>
- 
-<table>
-<tr>
-<td align="center" width="50%">
- 
-**🔒 Hekyra Security**
- 
-Auditorías · Pentesting · Análisis de Vulnerabilidades
-Hardening de Red · Infraestructura de Red
- 
-</td>
-<td align="center" width="50%">
- 
-**💻 Hekyra Dev**
- 
-Software a Medida · Webs Profesionales
-Automatizaciones · Bases de Datos
- 
-</td>
-</tr>
-</table>
+</div>
  
 [![Web](https://img.shields.io/badge/hekyra.com-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=00f0ff)](https://www.hekyra.com)
 [![Instagram](https://img.shields.io/badge/@Hekyraaas-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/Hekyraaas)
@@ -130,17 +105,18 @@ Automatizaciones · Bases de Datos
 
 ### `▸ GAME_STATS // RENDIMIENTO`
 ---
-<div align="flex">
-  <a href="https://github.com/MrAritz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrAritz&show_icons=true&theme=transparent&title_color=00f0ff&text_color=8892b0&icon_color=00f0ff&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="GitHub Stats"/>
-  </a>
-
-  <a href="https://github.com/MrAritz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAritz&layout=compact&theme=transparent&title_color=00f0ff&text_color=8892b0&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="Top Languages"/>
-  </a>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAritz&theme=transparent&ring=00f0ff&fire=ff0040&currStreakLabel=00f0ff&sideLabels=8892b0&sideNums=00f0ff&dates=495670&border=1d3557&background=0d1117" alt="GitHub Streak"/>
- 
+<div align="center">
+  <!-- MOST USED LANGUAGES (full width on top) -->
+<a href="https://github.com/MrAritz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAritz&layout=compact&theme=transparent&title_color=00f0ff&text_color=8892b0&border_color=1d3557&hide_border=false&bg_color=0d1117&langs_count=8" alt="Most Used Languages" width="100%"/>
+</a> 
+<!-- GITHUB STATS + STREAK SIDE BY SIDE -->
+<a href="https://github.com/MrAritz">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrAritz&show_icons=true&theme=transparent&title_color=00f0ff&text_color=8892b0&icon_color=00f0ff&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="GitHub Stats"/>
+</a>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAritz&theme=transparent&ring=00f0ff&fire=ff0040&currStreakLabel=00f0ff&sideLabels=8892b0&sideNums=00f0ff&dates=495670&border=1d3557&background=0d1117" alt="GitHub Streak"/>
+ <br/><br/>
 <!-- ACTIVITY GRAPH -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAritz&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ff0040&area=true&area_color=00f0ff&hide_border=false&custom_title=▸%20ACTIVIDAD%20//%20COMMITS_LOG" alt="Activity Graph"/>
 </div>
@@ -155,6 +131,7 @@ Automatizaciones · Bases de Datos
 [![Instagram](https://img.shields.io/badge/@MrAriitz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MrAriitz)
 [![Email](https://img.shields.io/badge/aritzrivas@hekyra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritzrivas@hekyra.com)
 [![Hekyra](https://img.shields.io/badge/hekyra.com-00f0ff?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://www.hekyra.com)
+<img src="https://komarev.com/ghpvc/?username=MrAritz&style=for-the-badge&color=00f0ff&label=PROFILE+SCANS" alt="Profile views"/>
 
 </div>
 <br/>
@@ -172,11 +149,6 @@ Automatizaciones · Bases de Datos
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=MrAritz&style=for-the-badge&color=00f0ff&label=PROFILE+SCANS" alt="Profile views"/>
-
 </div>
 
 <!-- HIDDEN EASTER EGG -->
