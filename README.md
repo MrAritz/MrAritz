@@ -29,15 +29,15 @@ Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://ww
  
 <!-- HEKYRA SECTION -->
  
-<div align="center">
+
  
 ### `▸ FACTION // HEKYRA`
  ---
-<br/>
+<div align="center">
  
-<a href="https://www.hekyra.com">
-  <img src="./Hekyra-logo-2000x2000.png" width="150" alt="Hekyra Logo"/>
-</a>
+  <a href="https://www.hekyra.com">
+    <img src="./Hekyra-logo-2000x2000.png" width="150" alt="Hekyra Logo"/>
+  </a>
  
 <br/><br/>
  
@@ -73,20 +73,17 @@ Automatizaciones · Bases de Datos
  
 </div>
  
-<div align="center">
+
 
 ### `▸ SKILL_TREE // ACTIVE_ABILITIES`
 ---
-<img src="./stats-rgp.svg" width="800" alt="RPG Stats"/>
-
+<div align="center">
+  <img src="./stats-rgp.svg" width="800" alt="RPG Stats"/>
 </div>
 
 <!-- TECH STACK — INVENTARIO -->
 
-<details>
-<summary>🎒 <b>INVENTARIO // TECH_STACK</b> (click para abrir)</summary>
-<br/>
-
+### `▸ INVENTARIO // TECH_STACK`
 ---
 <div align="center">
 
@@ -121,27 +118,20 @@ Automatizaciones · Bases de Datos
 #### 💻 Sistemas & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  
-#### 🔓 Ciberseguridad
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
 </div>
-</details>
 <!-- GITHUB STATS — GAME STATS -->
-
-<div align="center">
 
 ### `▸ GAME_STATS // RENDIMIENTO`
 ---
 <br/>
-
+<div align="center">
 <a href="https://github.com/MrAritz">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrAritz&show_icons=true&theme=transparent&title_color=00f0ff&text_color=8892b0&icon_color=00f0ff&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="GitHub Stats"/>
 </a>
@@ -162,26 +152,28 @@ Automatizaciones · Bases de Datos
 </div>
 
 <!-- TROPHIES -->
-<div align="center">
+
 
 ### `▸ LOGROS // ACHIEVEMENTS_UNLOCKED`
 ---
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MrAritz&theme=darkhub&no-frame=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophies"/>
 
 </div>
 <!-- CONTACT — CONEXIONES -->
 
-<div align="center">
 
 ### `▸ NETWORK // ESTABLECER_CONEXIÓN`
 ---
 <br/>
+<div align="center">
 
 [![X](https://img.shields.io/badge/@MrAriitz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrAriitz)
 [![Instagram](https://img.shields.io/badge/@MrAriitz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MrAriitz)
 [![Email](https://img.shields.io/badge/aritzrivas@hekyra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritzrivas@hekyra.com)
 [![Hekyra](https://img.shields.io/badge/hekyra.com-00f0ff?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://www.hekyra.com)
 
+</div>
 <br/>
 
 ```
