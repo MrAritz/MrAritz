@@ -1,0 +1,233 @@
+<svg viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+
+      .main-text {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 62px;
+        font-weight: bold;
+        fill: #00f0ff;
+        letter-spacing: 6px;
+      }
+
+      .glitch-1 {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 62px;
+        font-weight: bold;
+        fill: #ff0040;
+        letter-spacing: 6px;
+        opacity: 0;
+        animation: glitch1 3s infinite;
+      }
+
+      .glitch-2 {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 62px;
+        font-weight: bold;
+        fill: #00ff41;
+        letter-spacing: 6px;
+        opacity: 0;
+        animation: glitch2 3s infinite;
+      }
+
+      .subtitle {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 18px;
+        fill: #00f0ff;
+        opacity: 0.75;
+        letter-spacing: 3px;
+      }
+
+      .bracket {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 62px;
+        font-weight: bold;
+        fill: #00f0ff;
+        opacity: 0.25;
+        animation: bracketPulse 2.5s ease-in-out infinite;
+      }
+
+      .blink-cursor {
+        fill: #00f0ff;
+        animation: blink 1s step-end infinite;
+      }
+
+      .scanline {
+        fill: rgba(0, 240, 255, 0.04);
+        animation: scanmove 6s linear infinite;
+      }
+
+      .decorLine {
+        stroke: #00f0ff;
+        stroke-width: 1;
+        opacity: 0.15;
+        animation: lineFade 3s ease-in-out infinite;
+      }
+
+      .corner {
+        stroke: #00f0ff;
+        stroke-width: 1.5;
+        fill: none;
+        opacity: 0.25;
+      }
+
+      .system-text {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 11px;
+        fill: #00f0ff;
+        opacity: 0.2;
+        letter-spacing: 2px;
+      }
+
+      .threat-text {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #8892b0;
+        letter-spacing: 2px;
+      }
+
+      .threat-val {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #ff0040;
+        letter-spacing: 1px;
+      }
+
+      .status-dot {
+        fill: #00f0ff;
+        animation: pulse 2s ease-in-out infinite;
+      }
+
+      .status-text {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 12px;
+        fill: #00f0ff;
+        opacity: 0.5;
+        letter-spacing: 2px;
+      }
+
+      @keyframes glitch1 {
+        0%,90%,100% { transform: translate(0,0); opacity: 0; }
+        91% { transform: translate(-4px,-3px); opacity: 0.8; }
+        92% { transform: translate(4px,1px); opacity: 0.6; }
+        93% { transform: translate(-3px,4px); opacity: 0.8; }
+        94% { transform: translate(0,0); opacity: 0; }
+        95% { transform: translate(5px,-2px); opacity: 0.7; }
+        96% { transform: translate(-2px,3px); opacity: 0.8; }
+        97% { transform: translate(0,0); opacity: 0; }
+      }
+
+      @keyframes glitch2 {
+        0%,87%,100% { transform: translate(0,0); opacity: 0; }
+        88% { transform: translate(3px,4px); opacity: 0.6; }
+        89% { transform: translate(-5px,-2px); opacity: 0.8; }
+        90% { transform: translate(2px,-3px); opacity: 0.7; }
+        91% { transform: translate(0,0); opacity: 0; }
+        92% { transform: translate(-4px,3px); opacity: 0.6; }
+        93% { transform: translate(3px,-4px); opacity: 0.8; }
+        94% { transform: translate(0,0); opacity: 0; }
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+
+      @keyframes bracketPulse {
+        0%, 100% { opacity: 0.25; }
+        50% { opacity: 0.6; }
+      }
+
+      @keyframes scanmove {
+        0% { transform: translateY(-600px); }
+        100% { transform: translateY(600px); }
+      }
+
+      @keyframes lineFade {
+        0%, 100% { opacity: 0.1; }
+        50% { opacity: 0.35; }
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 1; }
+      }
+    </style>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Banner image -->
+  <image href="./Banner-GitHub.png" x="0" y="0" width="1200" height="600"/>
+
+  <!-- Scanline overlay -->
+  <rect class="scanline" x="0" y="0" width="1200" height="6"/>
+
+  <!-- Corner decorations -->
+  <polyline class="corner" points="20,50 20,20 50,20"/>
+  <polyline class="corner" points="1150,20 1180,20 1180,50"/>
+  <polyline class="corner" points="1180,550 1180,580 1150,580"/>
+  <polyline class="corner" points="50,580 20,580 20,550"/>
+
+  <!-- Decorative horizontal lines -->
+  <line class="decorLine" x1="20" y1="100" x2="180" y2="100"/>
+  <line class="decorLine" x1="20" y1="500" x2="140" y2="500" style="animation-delay: 0.5s;"/>
+  <line class="decorLine" x1="500" y1="500" x2="580" y2="500" style="animation-delay: 1.2s;"/>
+
+  <!-- System text top -->
+  <text class="system-text" x="60" y="45">ctOS_PROFILER v4.2.1 // SCANNING...</text>
+
+  <!-- Status indicator top right -->
+  <circle class="status-dot" cx="1140" cy="40" r="4"/>
+  <text class="status-text" x="1070" y="44">ONLINE</text>
+
+  <!-- ============ MAIN NAME — GLITCH ============ -->
+
+  <!-- Brackets -->
+  <text class="bracket" x="40" y="290">{</text>
+  <text class="bracket" x="530" y="290">}</text>
+
+  <!-- Glitch layers -->
+  <text class="glitch-1" x="100" y="285">ARITZ RIVAS</text>
+  <text class="glitch-2" x="100" y="285">ARITZ RIVAS</text>
+
+  <!-- Main name -->
+  <text class="main-text" x="100" y="285" filter="url(#glow)">ARITZ RIVAS</text>
+
+  <!-- Blinking cursor -->
+  <rect class="blink-cursor" x="522" y="252" width="3" height="40" rx="1"/>
+
+  <!-- ============ SUBTITLE ============ -->
+  <text class="subtitle" x="108" y="330">$ access_granted →</text>
+  <text class="subtitle" x="108" y="358" style="opacity: 0.55;">Full Stack Developer | Ethical Hacker</text>
+
+  <!-- ============ BOTTOM INFO BAR ============ -->
+  <line class="decorLine" x1="60" y1="420" x2="560" y2="420" style="opacity: 0.1;"/>
+
+  <text class="threat-text" x="60" y="455">THREAT</text>
+  <rect x="140" y="442" width="14" height="10" rx="2" fill="#ff0040"/>
+  <rect x="158" y="442" width="14" height="10" rx="2" fill="#ff0040"/>
+  <rect x="176" y="442" width="14" height="10" rx="2" fill="#ff0040"/>
+  <rect x="194" y="442" width="14" height="10" rx="2" fill="#ff0040"/>
+  <rect x="212" y="442" width="14" height="10" rx="2" fill="#ff0040"/>
+  <rect x="230" y="442" width="14" height="10" rx="2" fill="#ff0040"/>
+  <rect x="248" y="442" width="14" height="10" rx="2" fill="#ff0040"/>
+  <rect x="266" y="442" width="14" height="10" rx="2" fill="#ff0040"/>
+  <rect x="284" y="442" width="14" height="10" rx="2" fill="#ff0040" opacity="0.2"/>
+  <rect x="302" y="442" width="14" height="10" rx="2" fill="#ff0040" opacity="0.2"/>
+  <text class="threat-val" x="330" y="453">HIGH</text>
+
+  <text class="threat-text" x="60" y="485">CLASS</text>
+  <text class="threat-text" x="140" y="485" style="fill: #00f0ff; opacity: 0.6;">Full Stack Developer</text>
+
+  <text class="threat-text" x="60" y="515">FACTION</text>
+  <text class="threat-text" x="140" y="515" style="fill: #00f0ff; opacity: 0.6;">Open Source Collective</text>
+
+  <!-- Bottom system text -->
+  <text class="system-text" x="60" y="565">// SYSTEM.BREACH_DETECTED — PROFILE_LOADED</text>
+
+</svg>

@@ -1,0 +1,162 @@
+<svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      
+      text {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+      }
+      
+      .stat-label {
+        font-size: 13px;
+        fill: #8892b0;
+        letter-spacing: 2px;
+      }
+      
+      .stat-value {
+        font-size: 13px;
+        fill: #00f0ff;
+        letter-spacing: 1px;
+      }
+      
+      .stat-bar-bg {
+        fill: #112240;
+        rx: 3;
+      }
+      
+      .bar-frontend { fill: #00f0ff; rx: 3; animation: loadBar1 2s ease-out forwards; }
+      .bar-backend { fill: #00d4aa; rx: 3; animation: loadBar2 2s ease-out forwards; }
+      .bar-hacking { fill: #ff0040; rx: 3; animation: loadBar3 2s ease-out forwards; }
+      .bar-devops { fill: #bd00ff; rx: 3; animation: loadBar4 2s ease-out forwards; }
+      .bar-stealth { fill: #ffb800; rx: 3; animation: loadBar5 2s ease-out forwards; }
+      .bar-crafting { fill: #00ff41; rx: 3; animation: loadBar6 2s ease-out forwards; }
+      
+      .section-title {
+        font-size: 16px;
+        fill: #00f0ff;
+        letter-spacing: 4px;
+        opacity: 0.9;
+      }
+      
+      .corner-deco {
+        stroke: #00f0ff;
+        stroke-width: 1.5;
+        fill: none;
+        opacity: 0.4;
+      }
+      
+      .divider {
+        stroke: #1d3557;
+        stroke-width: 1;
+        stroke-dasharray: 4 4;
+      }
+      
+      .level-badge {
+        font-size: 11px;
+        fill: #0a192f;
+        font-weight: bold;
+      }
+      
+      .level-bg {
+        fill: #00f0ff;
+        rx: 3;
+      }
+      
+      .xp-text {
+        font-size: 10px;
+        fill: #495670;
+        letter-spacing: 1px;
+      }
+      
+      .pulse-dot {
+        fill: #00f0ff;
+        animation: pulse 2s ease-in-out infinite;
+      }
+      
+      @keyframes loadBar1 { from { width: 0; } to { width: 270px; } }
+      @keyframes loadBar2 { from { width: 0; } to { width: 285px; } }
+      @keyframes loadBar3 { from { width: 0; } to { width: 255px; } }
+      @keyframes loadBar4 { from { width: 0; } to { width: 225px; } }
+      @keyframes loadBar5 { from { width: 0; } to { width: 240px; } }
+      @keyframes loadBar6 { from { width: 0; } to { width: 210px; } }
+      
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; r: 3; }
+        50% { opacity: 1; r: 5; }
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="320" fill="transparent"/>
+  
+  <!-- Corner decorations -->
+  <polyline class="corner-deco" points="5,25 5,5 25,5"/>
+  <polyline class="corner-deco" points="775,5 795,5 795,25"/>
+  <polyline class="corner-deco" points="795,295 795,315 775,315"/>
+  <polyline class="corner-deco" points="25,315 5,315 5,295"/>
+  
+  <!-- Section Title -->
+  <text class="section-title" x="30" y="35">▸ SKILL_TREE // ACTIVE_ABILITIES</text>
+  <line class="divider" x1="30" y1="48" x2="770" y2="48"/>
+  
+  <!-- Pulse dots -->
+  <circle class="pulse-dot" cx="770" cy="32" r="3"/>
+  <circle class="pulse-dot" cx="755" cy="32" r="3" style="animation-delay: 0.5s;"/>
+  
+  <!-- SKILL BARS -->
+  
+  <!-- Frontend -->
+  <text class="stat-label" x="30" y="85">FRONTEND</text>
+  <rect class="stat-bar-bg" x="170" y="72" width="300" height="18"/>
+  <rect class="bar-frontend" x="170" y="72" width="270" height="18"/>
+  <text class="stat-value" x="485" y="86">90/100</text>
+  <rect class="level-bg" x="545" y="72" width="50" height="18"/>
+  <text class="level-badge" x="555" y="85">LVL 45</text>
+  <text class="xp-text" x="610" y="85">React · Vue · Angular · Tailwind</text>
+  
+  <!-- Backend -->
+  <text class="stat-label" x="30" y="125">BACKEND</text>
+  <rect class="stat-bar-bg" x="170" y="112" width="300" height="18"/>
+  <rect class="bar-backend" x="170" y="112" width="285" height="18"/>
+  <text class="stat-value" x="485" y="126">95/100</text>
+  <rect class="level-bg" x="545" y="112" width="50" height="18" style="fill: #00d4aa;"/>
+  <text class="level-badge" x="555" y="125">LVL 48</text>
+  <text class="xp-text" x="610" y="125">Node · Python · Java · Go</text>
+  
+  <!-- Hacking -->
+  <text class="stat-label" x="30" y="165">HACKING</text>
+  <rect class="stat-bar-bg" x="170" y="152" width="300" height="18"/>
+  <rect class="bar-hacking" x="170" y="152" width="255" height="18"/>
+  <text class="stat-value" x="485" y="166">85/100</text>
+  <rect class="level-bg" x="545" y="152" width="50" height="18" style="fill: #ff0040;"/>
+  <text class="level-badge" x="555" y="165">LVL 42</text>
+  <text class="xp-text" x="610" y="165">Pentesting · OSINT · CTF</text>
+  
+  <!-- DevOps -->
+  <text class="stat-label" x="30" y="205">DEVOPS</text>
+  <rect class="stat-bar-bg" x="170" y="192" width="300" height="18"/>
+  <rect class="bar-devops" x="170" y="192" width="225" height="18"/>
+  <text class="stat-value" x="485" y="206">75/100</text>
+  <rect class="level-bg" x="545" y="192" width="50" height="18" style="fill: #bd00ff;"/>
+  <text class="level-badge" x="555" y="205">LVL 38</text>
+  <text class="xp-text" x="610" y="205">Docker · K8s · CI/CD · AWS</text>
+  
+  <!-- Stealth (DB/Architecture) -->
+  <text class="stat-label" x="30" y="245">STEALTH</text>
+  <rect class="stat-bar-bg" x="170" y="232" width="300" height="18"/>
+  <rect class="bar-stealth" x="170" y="232" width="240" height="18"/>
+  <text class="stat-value" x="485" y="246">80/100</text>
+  <rect class="level-bg" x="545" y="232" width="50" height="18" style="fill: #ffb800;"/>
+  <text class="level-badge" x="555" y="245">LVL 40</text>
+  <text class="xp-text" x="610" y="245">Clean Code · Architecture · DB</text>
+  
+  <!-- Crafting (Tools/Building) -->
+  <text class="stat-label" x="30" y="285">CRAFTING</text>
+  <rect class="stat-bar-bg" x="170" y="272" width="300" height="18"/>
+  <rect class="bar-crafting" x="170" y="272" width="210" height="18"/>
+  <text class="stat-value" x="485" y="286">70/100</text>
+  <rect class="level-bg" x="545" y="272" width="50" height="18" style="fill: #00ff41;"/>
+  <text class="level-badge" x="555" y="285">LVL 35</text>
+  <text class="xp-text" x="610" y="285">Git · Linux · Neovim · Scripts</text>
+</svg>
