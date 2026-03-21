@@ -132,8 +132,6 @@ Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://ww
 [![Hekyra](https://img.shields.io/badge/hekyra.com-2d6a4f?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.hekyra.com)
 <img src="https://komarev.com/ghpvc/?username=MrAritz&style=for-the-badge&color=00f0ff&label=PROFILE+SCANS" alt="Profile views"/>
 </div>
-<br>
-
 <!-- HIDDEN EASTER EGG -->
 <!-- 
   ██╗  ██╗ █████╗  ██████╗██╗  ██╗    ████████╗██╗  ██╗███████╗    

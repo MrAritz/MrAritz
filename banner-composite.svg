@@ -217,14 +217,12 @@
   <text class="status-txt" x="1072" y="44">ONLINE</text>
 
   <!-- ═══════ GLITCH NAME ═══════ -->
-  <text class="bracket" x="45" y="191">{</text>
-  <text class="bracket" x="660" y="191">}</text>
+  <text class="bracket" x="45" y="186">{</text>
+  <text class="bracket" x="614" y="186">}</text>
 
   <text class="glitch-r" x="110" y="195">ARITZ RIVAS</text>
   <text class="glitch-g" x="110" y="195">ARITZ RIVAS</text>
   <text class="main-text" x="110" y="195" filter="url(#glow)">ARITZ RIVAS</text>
-
-  <rect class="cursor" x="650" y="153" width="3" height="45" rx="1"/>
 
   <!-- ═══════ SUBTITLE ═══════ -->
   <text class="subtitle" x="118" y="250" opacity="0.8">$ access_granted →</text>
