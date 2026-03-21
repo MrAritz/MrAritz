@@ -3,17 +3,15 @@
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-<!-- BANNER WITH GLITCH NAME OVERLAY -->
-<img src="./banner-composite.svg" width="100%" alt="ARITZ RIVAS — Full Stack Developer | Ethical Hacker"/>
-
+<!-- BANNER ANIMADO -->
+<a href="https://github.com/MrAritz">
+  <img src="./banner-composite.svg" width="100%" alt="ARITZ RIVAS — Network & Software Engineer | Cybersecurity"/>
+</a>
 </div>
 
 ---
 
 <!-- ABOUT ME — MISSION BRIEFING -->
-
-<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV0d3d6OWV6N3UyOGp0aWtnbGR6MjVrMXJ4dWhpNGN4cW8yMnVlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="hacking gif"/>
 
 ### `> cat /mission/briefing.txt`
 
