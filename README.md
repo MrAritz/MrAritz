@@ -17,7 +17,7 @@
 ```yaml
 Name:       Aritz Rivas
 Alias:      MrAritz
-Location:   Spain 🇪🇸
+Location:   Spain 
 Class:      Network & Software Engineer
 Faction:    Hekyra — Founder & CEO
 Status:     Building. Breaking. Fixing. Repeat.
@@ -38,8 +38,6 @@ Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://ww
   <a href="https://www.hekyra.com">
     <img src="./hekyra-section.svg" width="800" alt="Hekyra — Ciberseguridad & Desarrollo de Software"/>
   </a>
- 
-</div>
  
 [![Web](https://img.shields.io/badge/hekyra.com-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=00f0ff)](https://www.hekyra.com)
 [![Instagram](https://img.shields.io/badge/@Hekyraaas-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/Hekyraaas)
@@ -132,7 +130,7 @@ Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://ww
 [![X](https://img.shields.io/badge/@MrAriitz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrAriitz)
 [![Instagram](https://img.shields.io/badge/@MrAriitz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MrAriitz)
 [![Email](https://img.shields.io/badge/aritzrivas@hekyra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritzrivas@hekyra.com)
-[![Hekyra](https://img.shields.io/badge/hekyra.com-00f0ff?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://www.hekyra.com)
+[![Hekyra](https://img.shields.io/badge/hekyra.com-2d6a4f?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.hekyra.com)
 <img src="https://komarev.com/ghpvc/?username=MrAritz&style=for-the-badge&color=00f0ff&label=PROFILE+SCANS" alt="Profile views"/>
 
 </div>
@@ -143,9 +141,9 @@ Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://ww
 │                                                              │
 │   Si has llegado hasta aquí...                               │
 │                                                              │
-│   ░█▀▀ ░█▀▀█ ░█▀▀▀█ ▀▀█▀▀ ░█▀▀▀ ░█▀▀█                     │
-│   ░█▀▀ ░█▄▄█ ─▀▀▀▄▄ ─░█── ░█▀▀▀ ░█▄▄▀                     │
-│   ░█▄▄ ░█─░█ ░█▄▄▄█ ─░█── ░█▄▄▄ ░█─░█                     │
+│   ░█▀▀ ░█▀▀█ ░█▀▀▀█ ▀▀█▀▀ ░█▀▀▀ ░█▀▀█                        │
+│   ░█▀▀ ░█▄▄█ ─▀▀▀▄▄ ─░█── ░█▀▀▀ ░█▄▄▀                        │
+│   ░█▄▄ ░█─░█ ░█▄▄▄█ ─░█── ░█▄▄▄ ░█─░█                        │
 │                                                              │
 │   ...easter egg encontrado. Ya me caes bien. 🎮              │
 │                                                              │
@@ -162,7 +160,7 @@ Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://ww
   ██║  ██║██║  ██║╚██████╗██║  ██╗       ██║   ██║  ██║███████╗    
   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    
   
-  PLANET → Encontraste el segundo easter egg. Bienvenido al club. 🕹️
+  PLANET → Encontraste el easter egg. Bienvenido al club. 🕹️
   
   "La información quiere ser libre" — Stewart Brand
 -->
