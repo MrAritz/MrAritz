@@ -42,8 +42,7 @@ Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://ww
 [![Web](https://img.shields.io/badge/hekyra.com-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=00f0ff)](https://www.hekyra.com)
 [![Instagram](https://img.shields.io/badge/@Hekyraaas-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/Hekyraaas)
 [![X](https://img.shields.io/badge/@Hekyraaas-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hekyraaas)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](DISCORD_INVITE_LINK)
- 
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/invite/AuNGub9VWg)
 </div>
  
 
@@ -132,24 +131,8 @@ Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://ww
 [![Email](https://img.shields.io/badge/aritzrivas@hekyra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritzrivas@hekyra.com)
 [![Hekyra](https://img.shields.io/badge/hekyra.com-2d6a4f?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.hekyra.com)
 <img src="https://komarev.com/ghpvc/?username=MrAritz&style=for-the-badge&color=00f0ff&label=PROFILE+SCANS" alt="Profile views"/>
-
 </div>
-<br/>
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   Si has llegado hasta aquí...                               │
-│                                                              │
-│   ░█▀▀ ░█▀▀█ ░█▀▀▀█ ▀▀█▀▀ ░█▀▀▀ ░█▀▀█                        │
-│   ░█▀▀ ░█▄▄█ ─▀▀▀▄▄ ─░█── ░█▀▀▀ ░█▄▄▀                        │
-│   ░█▄▄ ░█─░█ ░█▄▄▄█ ─░█── ░█▄▄▄ ░█─░█                        │
-│                                                              │
-│   ...easter egg encontrado. Ya me caes bien. 🎮              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-</div>
+<br>
 
 <!-- HIDDEN EASTER EGG -->
 <!-- 
