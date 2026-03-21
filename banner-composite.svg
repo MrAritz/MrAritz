@@ -1,7 +1,7 @@
 <svg viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue');
 
       .main-text {
         font-family: 'Share Tech Mono', 'Courier New', monospace;
@@ -216,43 +216,43 @@
   <text class="status-txt" x="1072" y="44">ONLINE</text>
 
   <!-- ═══════ GLITCH NAME ═══════ -->
-  <text class="bracket" x="45" y="290">{</text>
-  <text class="bracket" x="570" y="290">}</text>
+  <text class="bracket" x="45" y="191">{</text>
+  <text class="bracket" x="660" y="191">}</text>
 
-  <text class="glitch-r" x="110" y="288">ARITZ RIVAS</text>
-  <text class="glitch-g" x="110" y="288">ARITZ RIVAS</text>
-  <text class="main-text" x="110" y="288" filter="url(#glow)">ARITZ RIVAS</text>
+  <text class="glitch-r" x="110" y="195">ARITZ RIVAS</text>
+  <text class="glitch-g" x="110" y="195">ARITZ RIVAS</text>
+  <text class="main-text" x="110" y="195" filter="url(#glow)">ARITZ RIVAS</text>
 
-  <rect class="cursor" x="562" y="248" width="3" height="45" rx="1"/>
+  <rect class="cursor" x="650" y="153" width="3" height="45" rx="1"/>
 
   <!-- ═══════ SUBTITLE ═══════ -->
-  <text class="subtitle" x="118" y="330" opacity="0.8">$ access_granted →</text>
-  <text class="subtitle" x="118" y="362" opacity="0.55">Network &amp; Software Engineer | Cybersecurity</text>
+  <text class="subtitle" x="118" y="250" opacity="0.8">$ access_granted →</text>
+  <text class="subtitle" x="118" y="292" opacity="0.55">Network &amp; Software Engineer | Cybersecurity</text>
 
   <!-- ═══════ INFO BAR ═══════ -->
-  <line stroke="#00f0ff" stroke-width="1" opacity="0.07" x1="60" y1="400" x2="560" y2="400"/>
+  <line stroke="#00f0ff" stroke-width="1" opacity="0.07" x1="60" y1="340" x2="560" y2="340"/>
 
   <!-- THREAT -->
-  <text class="info-label" x="60" y="438">THREAT</text>
-  <rect x="155" y="425" width="15" height="11" rx="2" fill="#ff0040"/>
-  <rect x="174" y="425" width="15" height="11" rx="2" fill="#ff0040"/>
-  <rect x="193" y="425" width="15" height="11" rx="2" fill="#ff0040"/>
-  <rect x="212" y="425" width="15" height="11" rx="2" fill="#ff0040"/>
-  <rect x="231" y="425" width="15" height="11" rx="2" fill="#ff0040"/>
-  <rect x="250" y="425" width="15" height="11" rx="2" fill="#ff0040"/>
-  <rect x="269" y="425" width="15" height="11" rx="2" fill="#ff0040"/>
-  <rect x="288" y="425" width="15" height="11" rx="2" fill="#ff0040"/>
-  <rect x="307" y="425" width="15" height="11" rx="2" fill="#ff0040" opacity="0.2"/>
-  <rect x="326" y="425" width="15" height="11" rx="2" fill="#ff0040" opacity="0.2"/>
-  <text class="threat-hi" x="355" y="436">HIGH</text>
+  <text class="info-label" x="60" y="370">THREAT</text>
+  <rect x="155" y="360" width="15" height="11" rx="2" fill="#ff0040"/>
+  <rect x="174" y="360" width="15" height="11" rx="2" fill="#ff0040"/>
+  <rect x="193" y="360" width="15" height="11" rx="2" fill="#ff0040"/>
+  <rect x="212" y="360" width="15" height="11" rx="2" fill="#ff0040"/>
+  <rect x="231" y="360" width="15" height="11" rx="2" fill="#ff0040"/>
+  <rect x="250" y="360" width="15" height="11" rx="2" fill="#ff0040"/>
+  <rect x="269" y="360" width="15" height="11" rx="2" fill="#ff0040"/>
+  <rect x="288" y="360" width="15" height="11" rx="2" fill="#ff0040"/>
+  <rect x="307" y="360" width="15" height="11" rx="2" fill="#ff0040" opacity="0.2"/>
+  <rect x="326" y="360" width="15" height="11" rx="2" fill="#ff0040" opacity="0.2"/>
+  <text class="threat-hi" x="355" y="370">HIGH</text>
 
   <!-- CLASS -->
-  <text class="info-label" x="60" y="468">CLASS</text>
-  <text class="info-val" x="155" y="468">Network &amp; Software Engineer</text>
+  <text class="info-label" x="60" y="400">CLASS</text>
+  <text class="info-val" x="155" y="400">Network &amp; Software Engineer</text>
 
   <!-- FACTION -->
-  <text class="info-label" x="60" y="498">FACTION</text>
-  <text class="info-val" x="155" y="498">Hekyra — Founder &amp; CEO</text>
+  <text class="info-label" x="60" y="430">FACTION</text>
+  <text class="info-val" x="155" y="430">Hekyra — Founder &amp; CEO</text>
 
   <!-- BOTTOM SYSTEM TEXT -->
   <text class="sys" x="55" y="560">// SYSTEM.BREACH_DETECTED — PROFILE_LOADED</text>

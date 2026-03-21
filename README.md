@@ -2,43 +2,84 @@
 <!-- ░░░░░░░░░ ctOS v4.2.1 // PROFILE: ARITZ_RIVAS ░░░░░░░░░░░ -->
 <!-- ██████████████████████████████████████████████████████████████ -->
 
-<div align="center">
 <!-- BANNER ANIMADO -->
-<a href="https://github.com/MrAritz">
-  <img src="./banner-composite.svg" width="100%" alt="ARITZ RIVAS — Network & Software Engineer | Cybersecurity"/>
-</a>
+<div align="center">
+  <a href="https://github.com/MrAritz">
+    <img src="./banner-composite.svg" width="100%" alt="ARITZ RIVAS — Network & Software Engineer | Cybersecurity"/>
+  </a>
 </div>
-
----
 
 <!-- ABOUT ME — MISSION BRIEFING -->
 
 ### `> cat /mission/briefing.txt`
-
-```yaml
-Name:      Aritz Rivas
-Alias:     [REDACTED]
-Location:  Spain 🇪🇸
-Status:    Buscando la próxima vulnerabilidad del sistema...
-Objective: Construir software que rompa las reglas del juego
-```
-
-Soy un desarrollador que combina la mentalidad hacker con la ingeniería de software. No me conformo con que las cosas "funcionen" — necesito entender **por qué** funcionan, **cómo** se rompen, y **qué pasa** cuando empujas los límites.
-
-> *"No es un bug, es una feature no documentada."*  — Yo, probablemente.
-
 ---
 
-<!-- SKILL TREE -->
+```yaml
+Name:       Aritz Rivas
+Alias:      MrAritz
+Location:   Spain 🇪🇸
+Class:      Network & Software Engineer
+Faction:    Hekyra — Founder & CEO
+Status:     Building. Breaking. Fixing. Repeat.
+```
+
+Ingeniero de redes, ciberseguridad y software. Fundador de **[Hekyra](https://www.hekyra.com)** — donde convertimos la tecnología en una ventaja, no en un problema. Combino la mentalidad hacker con la ingeniería de software: no me conformo con que las cosas funcionen, necesito entender **por qué** funcionan, **cómo** se rompen, y **qué pasa** cuando empujas los límites.
+ 
+> *"Toda solución empieza por entender el problema."*
+ 
+<!-- HEKYRA SECTION -->
+ 
+<div align="center">
+ 
+### `▸ FACTION // HEKYRA`
+ ---
+<br/>
+ 
+<a href="https://www.hekyra.com">
+  <img src="./Hekyra-logo-2000x2000.png" width="150" alt="Hekyra Logo"/>
+</a>
+ 
+<br/><br/>
+ 
+**Tecnología que funciona. Seguridad en la que confiar.**
+ 
+<br/>
+ 
+<table>
+<tr>
+<td align="center" width="50%">
+ 
+**🔒 Hekyra Security**
+ 
+Auditorías · Pentesting · Análisis de Vulnerabilidades
+Hardening de Red · Infraestructura de Red
+ 
+</td>
+<td align="center" width="50%">
+ 
+**💻 Hekyra Dev**
+ 
+Software a Medida · Webs Profesionales
+Automatizaciones · Bases de Datos
+ 
+</td>
+</tr>
+</table>
+ 
+[![Web](https://img.shields.io/badge/hekyra.com-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=00f0ff)](https://www.hekyra.com)
+[![Instagram](https://img.shields.io/badge/@Hekyraaas-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/Hekyraaas)
+[![X](https://img.shields.io/badge/@Hekyraaas-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hekyraaas)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](DISCORD_INVITE_LINK)
+ 
+</div>
+ 
 <div align="center">
 
 ### `▸ SKILL_TREE // ACTIVE_ABILITIES`
-
+---
 <img src="./stats-rgp.svg" width="800" alt="RPG Stats"/>
 
 </div>
-
----
 
 <!-- TECH STACK — INVENTARIO -->
 
@@ -46,65 +87,59 @@ Soy un desarrollador que combina la mentalidad hacker con la ingeniería de soft
 <summary>🎒 <b>INVENTARIO // TECH_STACK</b> (click para abrir)</summary>
 <br/>
 
+---
 <div align="center">
 
-#### ⚔️ Armas Principales (Lenguajes)
+#### ⚔️ Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-#### 🛡️ Armadura (Frameworks)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+#### 🛡️ Frameworks & Plataformas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🧪 Pociones (Herramientas)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+ 
+#### 🧪 Infraestructura & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+ 
+#### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🔓 Herramientas de Hackeo
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OracleSQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+ 
+#### 💻 Sistemas & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
+#### 🔓 Ciberseguridad
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </div>
 </details>
-
----
-
-<!-- QUEST LOG — PROYECTOS -->
-
-<details>
-<summary>📜 <b>QUEST_LOG // MISIONES_ACTIVAS</b> (click para abrir)</summary>
-<br/>
-
-| Estado | Misión | Descripción | Dificultad |
-|:------:|--------|-------------|:----------:|
-| 🟢 | **[Nombre Proyecto 1]** | Breve descripción del proyecto | ⭐⭐⭐⭐⭐ |
-| 🟡 | **[Nombre Proyecto 2]** | Breve descripción del proyecto | ⭐⭐⭐⭐ |
-| 🔴 | **[Nombre Proyecto 3]** | Breve descripción del proyecto | ⭐⭐⭐ |
-| 🟣 | **[Side Quest Secreto]** | `[CLASIFICADO]` | ⭐⭐⭐⭐⭐ |
-
-> 🟢 Completada &nbsp; 🟡 En progreso &nbsp; 🔴 En espera &nbsp; 🟣 Clasificada
-
-</details>
-
----
-
 <!-- GITHUB STATS — GAME STATS -->
 
 <div align="center">
 
 ### `▸ GAME_STATS // RENDIMIENTO`
-
+---
 <br/>
 
 <a href="https://github.com/MrAritz">
@@ -126,48 +161,26 @@ Soy un desarrollador que combina la mentalidad hacker con la ingeniería de soft
 
 </div>
 
----
-
 <!-- TROPHIES -->
 <div align="center">
 
 ### `▸ LOGROS // ACHIEVEMENTS_UNLOCKED`
-
+---
 <img src="https://github-profile-trophy.vercel.app/?username=MrAritz&theme=darkhub&no-frame=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophies"/>
 
 </div>
-
----
-
-<!-- SNAKE CONTRIBUTION -->
-<div align="center">
-
-### `▸ BREACH_PROTOCOL // CONTRIBUTION_HACK`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrAritz/MrAritz/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrAritz/MrAritz/output/github-snake.svg"/>
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/MrAritz/MrAritz/output/github-snake.svg"/>
-</picture>
-
-> *Para activar la snake, necesitas configurar el [GitHub Action](https://github.com/Platane/snk)*
-
-</div>
-
----
-
 <!-- CONTACT — CONEXIONES -->
 
 <div align="center">
 
 ### `▸ NETWORK // ESTABLECER_CONEXIÓN`
-
+---
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://TU_PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_TWITTER)
+[![X](https://img.shields.io/badge/@MrAriitz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrAriitz)
+[![Instagram](https://img.shields.io/badge/@MrAriitz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MrAriitz)
+[![Email](https://img.shields.io/badge/aritzrivas@hekyra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritzrivas@hekyra.com)
+[![Hekyra](https://img.shields.io/badge/hekyra.com-00f0ff?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://www.hekyra.com)
 
 <br/>
 
