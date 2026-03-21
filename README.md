@@ -131,7 +131,8 @@ Automatizaciones · Bases de Datos
 ### `▸ GAME_STATS // RENDIMIENTO`
 ---
 <br/>
-<div align="center">
+<br/>
+ 
 <a href="https://github.com/MrAritz">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrAritz&show_icons=true&theme=transparent&title_color=00f0ff&text_color=8892b0&icon_color=00f0ff&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="GitHub Stats"/>
 </a>
@@ -139,30 +140,19 @@ Automatizaciones · Bases de Datos
 <a href="https://github.com/MrAritz">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAritz&layout=compact&theme=transparent&title_color=00f0ff&text_color=8892b0&border_color=1d3557&hide_border=false&bg_color=0d1117" alt="Top Languages"/>
 </a>
-
+ 
 <br/><br/>
-
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAritz&theme=transparent&ring=00f0ff&fire=ff0040&currStreakLabel=00f0ff&sideLabels=8892b0&sideNums=00f0ff&dates=495670&border=1d3557&background=0d1117" alt="GitHub Streak"/>
-
+ 
 <br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
+ 
+<!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAritz&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ff0040&area=true&area_color=00f0ff&hide_border=false&custom_title=▸%20ACTIVIDAD%20//%20COMMITS_LOG" alt="Activity Graph"/>
-
+ 
 </div>
 
-<!-- TROPHIES -->
-
-
-### `▸ LOGROS // ACHIEVEMENTS_UNLOCKED`
----
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MrAritz&theme=darkhub&no-frame=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophies"/>
-
-</div>
 <!-- CONTACT — CONEXIONES -->
-
-
 ### `▸ NETWORK // ESTABLECER_CONEXIÓN`
 ---
 <br/>
