@@ -23,6 +23,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Quitar la barra de progreso (clase .u)
+        run: sed -i 's/<\/style>/.u{display:none}<\/style>/' dist/*.svg
+
       - name: Publicar el SVG en la rama output
         uses: crazy-max/ghaction-github-pages@v4
         with:
